@@ -1,0 +1,12 @@
+.text {
+  margin-bottom: 40px;
+}
+.text p {
+  margin-top: 14px;
+}
+@media (max-width: 777px) {
+  .text {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+}

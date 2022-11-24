@@ -1,0 +1,66 @@
+.textCarou {
+  text-align: center;
+}
+.textCarou p {
+  margin-bottom: 45px;
+}
+.item {
+  background-color: #f1f3ff;
+  height: 270px;
+  width: 619px;
+  border-radius: 8px;
+  margin: 32px;
+}
+.content {
+  margin-top: 69px;
+  margin-left: 80px;
+}
+.profile img {
+  width: 80px !important;
+  margin-top: 95px;
+  margin-left: 46px;
+}
+.rate {
+  width: 80px;
+  height: 16px;
+}
+.testiText p {
+  margin-top: 8px;
+  width: 410px;
+  height: 80px;
+}
+.testiText h6 {
+  font-size: 14px;
+  font-weight: 550;
+  margin-top: 10px;
+}
+
+@media (max-width: 777px) {
+  .item {
+    width: 328px;
+    height: 372px;
+  }
+  .imgArea {
+    margin-top: 40px;
+  }
+  .testiText p {
+    width: 264px;
+    height: 120px;
+  }
+  .profile img {
+    margin: auto;
+    margin-bottom: 24px;
+  }
+  .content {
+    margin-top: 24px;
+    width: 100%;
+    margin: auto;
+  }
+  .rate {
+    margin: auto;
+    margin-bottom: 24px;
+  }
+  .testiText {
+    margin-left: 27px;
+  }
+}

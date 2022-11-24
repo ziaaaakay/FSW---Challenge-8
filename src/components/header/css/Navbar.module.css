@@ -1,0 +1,16 @@
+.navbar {
+  background: #f1f3ff;
+}
+.navItem {
+  margin-right: 32px;
+}
+.navLink {
+  text-decoration: none;
+  font-style: normal;
+  font-size: 14px;
+  color: black;
+}
+
+.navItem a:hover {
+  color: #0D28A6;
+}
