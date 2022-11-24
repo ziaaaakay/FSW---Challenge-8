@@ -4,7 +4,6 @@ import Footer from './components/footer/Footer';
 import SearchCar from './components/main/SearchCar';
 import CarsData from './components/main/CarsData';
 import {useState} from 'react';
-import React, { Component }  from 'react';
 
 function Cars() {
   const [input, setinput] = useState('');
