@@ -6,7 +6,6 @@ import CTABanner from './components/main/CTABanner';
 import Faq from './components/main/Faq';
 import Footer from './components/footer/Footer';
 import Testimonial from './components/main/Testimonial';
-import React, { Component }  from 'react';
 
 function App() {
   return (
